@@ -44,7 +44,7 @@ Boot up the Pi, get an SSH sell or connect a monitor and a keyboard and enter th
 ```
 $ sudo apt update && sudo apt install python3 python3-pip
 $ git clone https://github.com/ZarAO/lanGhost-master
-$ cd lanGhost
+$ cd lanGhost-master
 $ sudo ./setup.py
 ```
 
