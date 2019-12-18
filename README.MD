@@ -1,17 +1,17 @@
 <p align=center>
-<a href="https://github.com/xdavidhu/lanGhost/blob/master/README.MD"><img src="https://github.com/xdavidhu/lanGhost/raw/master/img/lanGhost.png"/>
+<a href="https://github.com/ZarAO/lanGhost-master/blob/master/README.MD"><img src="https://github.com/ZarAO/lanGhost-master/raw/master/img/lanGhost.png"/>
 </a>
-<a href="https://travis-ci.org/xdavidhu/lanGhost">
-    <img src="https://travis-ci.org/xdavidhu/lanGhost.svg?branch=master" align=center/>
+<a href="https://travis-ci.org/ZarAO/lanGhost-master">
+    <img src="https://travis-ci.org/ZarAO/lanGhost-master.svg?branch=master" align=center/>
 </a>
-<a href="https://github.com/xdavidhu/lanGhost">
+<a href="https://github.com/ZarAO/lanGhost-master">
     <img src="https://img.shields.io/badge/python-3.3%2C%203.4%2C%203.5%2C%203.6-brightgreen.svg" align=center/>
 </a>
-<a href="https://github.com/xdavidhu/lanGhost/blob/master/LICENSE">
+<a href="https://github.com/ZarAO/lanGhost-master/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" align=center/>
 </a>
-<a href="https://github.com/xdavidhu/lanGhost">
-    <img src="https://img.shields.io/github/stars/xdavidhu/lanGhost.svg" align=center/>
+<a href="https://github.com/ZarAO/lanGhost-master">
+    <img src="https://img.shields.io/github/stars/ZarAO/lanGhost-master.svg" align=center/>
 </a>
 </p>
 
@@ -21,13 +21,13 @@
 
 <h1 align=center>features:</h1>
 <p align=center>
-<a href="https://github.com/xdavidhu/lanGhost/blob/master/README.MD"><img src="https://raw.githubusercontent.com/xdavidhu/lanGhost/master/img/features.png"/></a>
+<a href="https://github.com/ZarAO/lanGhost-master/blob/master/README.MD"><img src="https://raw.githubusercontent.com/ZarAO/lanGhost-master/master/img/features.png"/></a>
 </p>
 
 <br><br>
 
 <p align=center>
-<a href="https://github.com/xdavidhu/lanGhost/blob/master/DEMOS.MD"><img src="img/demos-button.png" align=center width=40%/></a>
+<a href="https://github.com/ZarAO/lanGhost-master/blob/master/DEMOS.MD"><img src="img/demos-button.png" align=center width=40%/></a>
 <br><br><br>
 </p>
 
@@ -79,9 +79,9 @@ your API key.
 ```
 
 <p align=center>
-<img src="https://github.com/xdavidhu/lanGhost/raw/master/img/screenshot-telegram-1.png"/>
+<img src="https://github.com/ZarAO/lanGhost-master/raw/master/img/screenshot-telegram-1.png"/>
 <br><br>
-<img src="https://github.com/xdavidhu/lanGhost/raw/master/img/screenshot-telegram-2.png"/>
+<img src="https://github.com/ZarAO/lanGhost-master/raw/master/img/screenshot-telegram-2.png"/>
 </p>
 
 <h4>step 3/4 - setup.py</h4>
@@ -96,7 +96,7 @@ bot's @username (what you sent to @BotFather) to find it.
 ```
 
 <p align=center>
-<img src="https://github.com/xdavidhu/lanGhost/raw/master/img/screenshot-telegram-3.png"/>
+<img src="https://github.com/ZarAO/lanGhost-master/raw/master/img/screenshot-telegram-3.png"/>
 </p>
 
 <h4>step 4/4 - setup.py</h4>
@@ -111,7 +111,7 @@ by adding a new cron '@reboot' entry)
 <h3 align=center>If you are ready with the setup just reboot the Pi and lanGhost will start right up!</3>
 <br><br>
 <p align=center>
-<img src="https://github.com/xdavidhu/lanGhost/raw/master/img/screenshot-telegram-4.png"/>
+<img src="https://github.com/ZarAO/lanGhost-master/raw/master/img/screenshot-telegram-4.png"/>
 </p>
 
 <h1 align=center>usage:</h1>
